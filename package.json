@@ -1,0 +1,21 @@
+{
+  "name": "javascript-word-counter",
+  "version": "1.0.0",
+  "description": "Counts the number of words in a string",
+  "main": "app/wordCounter.js",
+  "scripts": {
+    "test": "jasmine tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/I-chat/word-counter-lab.git"
+  },
+  "author": "Ichiato Ikikin",
+  "license": "MIT",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
